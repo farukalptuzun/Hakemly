@@ -6,6 +6,7 @@
 
 ## 🎯 Amaç
 
+
 Bu uygulama:
 
 1. **Konuşmaları alır** (mikrofonla veya dosya yükleme ile)
@@ -300,3 +301,4 @@ GET /audio/test
 → Basit bir test sesi üretir (outputs/test.wav).
 
 ---
+
