@@ -17,6 +17,7 @@ Bu uygulama:
 
 ---
 
+
 ## 🧱 Proje Yapısı
 
 ```bash
@@ -300,5 +301,6 @@ GET /audio/test
 → Basit bir test sesi üretir (outputs/test.wav).
 
 ---
+
 
 
